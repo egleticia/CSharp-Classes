@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos Studio\\C# - Nélio\\Herança\\Herança\\Herança.csproj",
+      "projectUniqueName": "C:\\Projetos Studio\\CSharp-Classes\\Herança\\Herança\\Herança.csproj",
       "projectName": "Herança",
-      "projectPath": "C:\\Projetos Studio\\C# - Nélio\\Herança\\Herança\\Herança.csproj",
+      "projectPath": "C:\\Projetos Studio\\CSharp-Classes\\Herança\\Herança\\Herança.csproj",
       "packagesPath": "C:\\Users\\Letic\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos Studio\\C# - Nélio\\Herança\\Herança\\obj\\",
+      "outputPath": "C:\\Projetos Studio\\CSharp-Classes\\Herança\\Herança\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Letic\\AppData\\Roaming\\NuGet\\NuGet.Config",
