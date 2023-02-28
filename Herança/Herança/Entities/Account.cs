@@ -19,11 +19,14 @@ namespace Herança.Entities
             Balance = balance;
         }
 
-        public void Withdraw (double amount) { 
+       // virtual - permite que o método principal seja sobrescrito pelas subclasses
+        public virtual void Withdraw (double amount) { 
 
-            Balance -= amount;
+            Balance -= amount + 5.00;
         }
 
+
+        
         public void Deposit( double amount) {
         
             Balance += amount;
