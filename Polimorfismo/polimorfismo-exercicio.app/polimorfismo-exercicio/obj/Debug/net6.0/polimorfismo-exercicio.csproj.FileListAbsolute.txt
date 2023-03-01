@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\obj\Debug\net6.0\polimorfismo-exercicio.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\obj\Debug\net6.0\polimorfismo-exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\obj\Debug\net6.0\polimorfismo-exercicio.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\obj\Debug\net6.0\polimorfismo-exercicio.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\obj\Debug\net6.0\polimorfismo-exercicio.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\bin\Debug\net6.0\polimorfismo-exercicio.exe
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\bin\Debug\net6.0\polimorfismo-exercicio.deps.json
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\bin\Debug\net6.0\polimorfismo-exercicio.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\bin\Debug\net6.0\polimorfismo-exercicio.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\bin\Debug\net6.0\polimorfismo-exercicio.pdb
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\obj\Debug\net6.0\polimorfismo-exercicio.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\obj\Debug\net6.0\refint\polimorfismo-exercicio.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\obj\Debug\net6.0\polimorfismo-exercicio.pdb
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\obj\Debug\net6.0\polimorfismo-exercicio.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\polimorfismo-exercicio.app\polimorfismo-exercicio\obj\Debug\net6.0\ref\polimorfismo-exercicio.dll
