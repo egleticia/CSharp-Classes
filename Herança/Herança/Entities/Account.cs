@@ -1,7 +1,7 @@
 ﻿
 namespace Herança.Entities
 {
-    public class Account
+    abstract class Account
     {
         public int Number { get; protected set; }
         public string Holder { get; protected set; }
@@ -12,7 +12,7 @@ namespace Herança.Entities
         {
         }
 
-        public Account(int number, string holder, double balance)
+         public Account(int number, string holder, double balance)
         {
             Number = number;
             Holder = holder;

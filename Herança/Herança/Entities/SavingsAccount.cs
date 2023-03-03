@@ -3,7 +3,7 @@
 namespace Herança.Entities
 {
 
-    public sealed class SavingsAccount : Account
+    class SavingsAccount : Account
     {
         public double InterestRate { get; set; }
 

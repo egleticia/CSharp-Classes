@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
 using Herança.Entities;
+using System.Globalization;
 
 internal class Program
 {
@@ -69,15 +72,15 @@ internal class Program
 
         // Início Aula III -----------------------------------------------------------------
 
-        Account acc1 = new Account(1001, "Alex", 500.00);
-        Account acc2 = new SavingsAccount(1002, "Anna", 500.00, 0.01);
+        //Account acc1 = new Account(1001, "Alex", 500.00);
+        //Account acc2 = new SavingsAccount(1002, "Anna", 500.00, 0.01);
 
-        acc1.Withdraw(10.0);
-        acc2.Withdraw(10.0);
+        //acc1.Withdraw(10.0);
+        //acc2.Withdraw(10.0);
 
 
-        Console.WriteLine(acc1.Balance);
-        Console.WriteLine(acc2.Balance);
+        //Console.WriteLine(acc1.Balance);
+        //Console.WriteLine(acc2.Balance);
 
 
         // Sobrescrita - quando você implementa (alterando ou não) na subclasse a operação que já existia na superclasse
@@ -88,8 +91,33 @@ internal class Program
         // Fim Aula III -----------------------------------------------------------------
 
 
+        // Início Aula V - Classes Abstratas -----------------------------------------------------------------
 
+        List<Account> list = new List<Account>();
 
+        list.Add(new SavingsAccount(1001, "Alex", 500.0, 0.01));
+        list.Add(new BusinessAccount(1002, "Maria", 500.0, 400.0));
+        list.Add(new SavingsAccount(1003, "Bob", 500.0, 0.01));
+        list.Add(new BusinessAccount(1004, "Anna", 500.0, 500.0));
+
+        double sum = 0.0;
+        foreach (Account account in list) {
+
+            sum += account.Balance;
+        }
+
+        Console.WriteLine("Total Balance: " + sum.ToString("F2", CultureInfo.InvariantCulture));
+
+        foreach (Account acc in list)
+        {
+            acc.Withdraw(10.0);
+        }
+
+        foreach (Account acc in list)
+        {
+            Console.WriteLine($"Update balance for account" 
+                + acc.Number + " " + acc.Balance.ToString("F2", CultureInfo.InvariantCulture));
+        }
 
     }
 }

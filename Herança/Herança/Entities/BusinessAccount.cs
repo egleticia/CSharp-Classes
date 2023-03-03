@@ -1,6 +1,6 @@
 ﻿namespace Herança.Entities
 {
-    internal class BusinessAccount : Account
+    class BusinessAccount : Account
     {
         public double LoanLimit { get; set; }
 
