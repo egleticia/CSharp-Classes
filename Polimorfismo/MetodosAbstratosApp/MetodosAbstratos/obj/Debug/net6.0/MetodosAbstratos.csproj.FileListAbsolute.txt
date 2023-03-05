@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\bin\Debug\net6.0\MetodosAbstratos.exe
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\bin\Debug\net6.0\MetodosAbstratos.deps.json
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\bin\Debug\net6.0\MetodosAbstratos.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\bin\Debug\net6.0\MetodosAbstratos.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\bin\Debug\net6.0\MetodosAbstratos.pdb
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\obj\Debug\net6.0\refint\MetodosAbstratos.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.pdb
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\obj\Debug\net6.0\MetodosAbstratos.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\MetodosAbstratosApp\MetodosAbstratos\obj\Debug\net6.0\ref\MetodosAbstratos.dll
