@@ -45,7 +45,7 @@ for (int i = 1; i <= n; i++)
 }
 
 
-Console.WriteLine("--------------------");
+Console.WriteLine("---------------------");
 Console.WriteLine("TAXES PAID: ");
 
 
@@ -61,7 +61,7 @@ List<double> soma = new List<double>();
 
 
 double totalTaxes = soma.Sum();
-Console.WriteLine("--------------------");
+Console.WriteLine("---------------------");
 Console.WriteLine("TOTAL TAXES: " + totalTaxes.ToString("F2", CultureInfo.InvariantCulture));
 
 
