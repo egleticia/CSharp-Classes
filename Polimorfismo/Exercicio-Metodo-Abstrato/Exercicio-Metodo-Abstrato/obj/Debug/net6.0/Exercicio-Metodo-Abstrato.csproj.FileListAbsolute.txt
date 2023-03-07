@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\bin\Debug\net6.0\Exercicio-Metodo-Abstrato.exe
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\bin\Debug\net6.0\Exercicio-Metodo-Abstrato.deps.json
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\bin\Debug\net6.0\Exercicio-Metodo-Abstrato.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\bin\Debug\net6.0\Exercicio-Metodo-Abstrato.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\bin\Debug\net6.0\Exercicio-Metodo-Abstrato.pdb
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\obj\Debug\net6.0\Exercicio-Metodo-Abstrato.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\obj\Debug\net6.0\Exercicio-Metodo-Abstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\obj\Debug\net6.0\Exercicio-Metodo-Abstrato.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\obj\Debug\net6.0\Exercicio-Metodo-Abstrato.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\obj\Debug\net6.0\Exercicio-Metodo-Abstrato.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\obj\Debug\net6.0\Exercicio-Metodo-Abstrato.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\obj\Debug\net6.0\refint\Exercicio-Metodo-Abstrato.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\obj\Debug\net6.0\Exercicio-Metodo-Abstrato.pdb
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\obj\Debug\net6.0\Exercicio-Metodo-Abstrato.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\Exercicio-Metodo-Abstrato\Exercicio-Metodo-Abstrato\obj\Debug\net6.0\ref\Exercicio-Metodo-Abstrato.dll
