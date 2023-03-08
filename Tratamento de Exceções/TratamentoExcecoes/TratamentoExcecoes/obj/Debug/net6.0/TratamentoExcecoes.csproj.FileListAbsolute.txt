@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.exe
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.deps.json
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\bin\Debug\net6.0\TratamentoExcecoes.pdb
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\refint\TratamentoExcecoes.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.pdb
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\TratamentoExcecoes.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\TratamentoExcecoes\TratamentoExcecoes\obj\Debug\net6.0\ref\TratamentoExcecoes.dll
