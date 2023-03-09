@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\bin\Debug\net6.0\ExercicioHotel.exe
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\bin\Debug\net6.0\ExercicioHotel.deps.json
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\bin\Debug\net6.0\ExercicioHotel.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\bin\Debug\net6.0\ExercicioHotel.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\bin\Debug\net6.0\ExercicioHotel.pdb
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\obj\Debug\net6.0\ExercicioHotel.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\obj\Debug\net6.0\ExercicioHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\obj\Debug\net6.0\ExercicioHotel.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\obj\Debug\net6.0\ExercicioHotel.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\obj\Debug\net6.0\ExercicioHotel.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\obj\Debug\net6.0\ExercicioHotel.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\obj\Debug\net6.0\refint\ExercicioHotel.dll
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\obj\Debug\net6.0\ExercicioHotel.pdb
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\obj\Debug\net6.0\ExercicioHotel.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Polimorfismo\ExercicioHotel\ExercicioHotel\obj\Debug\net6.0\ref\ExercicioHotel.dll
