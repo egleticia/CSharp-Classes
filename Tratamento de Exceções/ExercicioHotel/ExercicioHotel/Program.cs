@@ -1,7 +1,8 @@
 ﻿using ExercicioHotel.Entities;
 
 
-//Solução ruim: Foi preciso colocar toda lógica no programa principal
+//Solução ruim: Foi preciso colocar toda lógica no programa principal;
+//Solução II ruim: Retorno de uma string;
 
 Console.WriteLine("Room number: ");
 int number = int.Parse(Console.ReadLine());
@@ -32,20 +33,17 @@ else
     Console.WriteLine("Check-out date (dd/MM/yyyy): ");
     checkOut = DateTime.Parse(Console.ReadLine());
 
-    DateTime now = DateTime.Now;
 
-    if (checkIn < now || checkOut < now)
+
+    string error = reservation.UpdateDates(checkIn, checkOut);
+
+    if (error != null)
     {
-        Console.WriteLine("Error in the reservation: Reservation dates for update must be future dates");
-    }
-    else if (checkOut <= checkIn)
-    {
-        Console.WriteLine("Error in reservation: Check-out date must be after check-in date.");
+        Console.WriteLine("Error in Reservation: " + error);
     }
 
     else
     {
-        reservation.UpdateDates(checkIn, checkOut);
         Console.WriteLine("Reservation: " + reservation);
     }
 }
