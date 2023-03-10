@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos Studio\\CSharp-Classes\\Polimorfismo\\ExercicioHotel\\ExercicioHotel\\ExercicioHotel.csproj": {}
+    "C:\\Projetos Studio\\CSharp-Classes\\Tratamento de Exceções\\ExercicioHotel\\ExercicioHotel\\ExercicioHotel.csproj": {}
   },
   "projects": {
-    "C:\\Projetos Studio\\CSharp-Classes\\Polimorfismo\\ExercicioHotel\\ExercicioHotel\\ExercicioHotel.csproj": {
+    "C:\\Projetos Studio\\CSharp-Classes\\Tratamento de Exceções\\ExercicioHotel\\ExercicioHotel\\ExercicioHotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos Studio\\CSharp-Classes\\Polimorfismo\\ExercicioHotel\\ExercicioHotel\\ExercicioHotel.csproj",
+        "projectUniqueName": "C:\\Projetos Studio\\CSharp-Classes\\Tratamento de Exceções\\ExercicioHotel\\ExercicioHotel\\ExercicioHotel.csproj",
         "projectName": "ExercicioHotel",
-        "projectPath": "C:\\Projetos Studio\\CSharp-Classes\\Polimorfismo\\ExercicioHotel\\ExercicioHotel\\ExercicioHotel.csproj",
+        "projectPath": "C:\\Projetos Studio\\CSharp-Classes\\Tratamento de Exceções\\ExercicioHotel\\ExercicioHotel\\ExercicioHotel.csproj",
         "packagesPath": "C:\\Users\\Letic\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos Studio\\CSharp-Classes\\Polimorfismo\\ExercicioHotel\\ExercicioHotel\\obj\\",
+        "outputPath": "C:\\Projetos Studio\\CSharp-Classes\\Tratamento de Exceções\\ExercicioHotel\\ExercicioHotel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Letic\\AppData\\Roaming\\NuGet\\NuGet.Config",
