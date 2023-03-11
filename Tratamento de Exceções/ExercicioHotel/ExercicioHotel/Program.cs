@@ -1,26 +1,23 @@
 ﻿using ExercicioHotel.Entities;
+using ExercicioHotel.Entities.Exceptions;
 
 
 //Solução ruim: Foi preciso colocar toda lógica no programa principal;
 //Solução II ruim: Retorno de uma string;
 
-Console.WriteLine("Room number: ");
-int number = int.Parse(Console.ReadLine());
-
-Console.WriteLine("Check-in date (dd/MM/yyyy): ");
-DateTime checkIn = DateTime.Parse(Console.ReadLine());
-
-Console.WriteLine("Check-out date (dd/MM/yyyy): ");
-DateTime checkOut = DateTime.Parse(Console.ReadLine());
-
-
-if (checkOut <= checkIn)
+try
 {
-    Console.WriteLine("Error in reservation: Check-out date must be after check-in date.");
-}
 
-else
-{
+    Console.WriteLine("Room number: ");
+    int number = int.Parse(Console.ReadLine());
+
+    Console.WriteLine("Check-in date (dd/MM/yyyy): ");
+    DateTime checkIn = DateTime.Parse(Console.ReadLine());
+
+    Console.WriteLine("Check-out date (dd/MM/yyyy): ");
+    DateTime checkOut = DateTime.Parse(Console.ReadLine());
+
+
     Reservation reservation = new Reservation(number, checkIn, checkOut);
     Console.WriteLine("Reservation: " + reservation);
 
@@ -35,18 +32,23 @@ else
 
 
 
-    string error = reservation.UpdateDates(checkIn, checkOut);
-
-    if (error != null)
-    {
-        Console.WriteLine("Error in Reservation: " + error);
-    }
-
-    else
-    {
-        Console.WriteLine("Reservation: " + reservation);
-    }
+    reservation.UpdateDates(checkIn, checkOut);
+    Console.WriteLine("Reservation: " + reservation);
 }
+
+catch (DomainException e)
+{
+    Console.WriteLine("Error in reservation: " + e.Message);
+}
+catch (FormatException e)
+{ 
+    Console.WriteLine("Format error: " + e.Message);
+}
+catch (Exception e)
+{
+    Console.WriteLine("Unexpected Error: " + e.Message);
+}
+
 
 
 
