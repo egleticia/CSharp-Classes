@@ -1,4 +1,6 @@
-﻿
+﻿using ExecicioFixacao_Excecoes.Exceptions;
+using ExercicioFixaxao_Excecoes.Exceptions;
+
 namespace ExecicioFixacao_Excecoes.Entities
 {
     class Account
@@ -27,6 +29,11 @@ namespace ExecicioFixacao_Excecoes.Entities
 
         public void WithDraw(double amount)
         {
+
+            //if (amount > balance)
+            //{
+            //    throw new DomainException("Not enough balance");
+            //}
         }
     }
 }
