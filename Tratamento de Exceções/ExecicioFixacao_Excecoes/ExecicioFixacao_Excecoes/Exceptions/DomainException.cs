@@ -1,9 +1,11 @@
-﻿
+﻿using System;
+
+
 namespace ExecicioFixacao_Excecoes.Exceptions
 {
-    class DomainException
+    class DomainException : ApplicationException
     {
-        public DomainException(string message) 
+        public DomainException(string message) : base(message)
         {
         }
     }

@@ -1,5 +1,5 @@
 ﻿using ExecicioFixacao_Excecoes.Exceptions;
-using ExercicioFixaxao_Excecoes.Exceptions;
+using System.Globalization;
 
 namespace ExecicioFixacao_Excecoes.Entities
 {
@@ -25,15 +25,29 @@ namespace ExecicioFixacao_Excecoes.Entities
 
         public void Deposit(double amount)
         {
+            Balance += amount;
         }
 
         public void WithDraw(double amount)
         {
+            
 
-            //if (amount > balance)
-            //{
-            //    throw new DomainException("Not enough balance");
-            //}
+            if (amount > Balance)
+            {
+                throw new DomainException("Withdraw error: Not enough balance.");
+            }
+
+            if (amount > WithDrawLimit)
+            {
+                throw new DomainException("Withdraw error: The amount exceeds withdraw limit.");
+            }
+
+            Balance -= amount;
+        }
+
+        public override string ToString()
+        {
+            return Balance.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
