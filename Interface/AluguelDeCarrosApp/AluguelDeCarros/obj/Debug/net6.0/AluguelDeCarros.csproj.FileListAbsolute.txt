@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\bin\Debug\net6.0\AluguelDeCarros.exe
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\bin\Debug\net6.0\AluguelDeCarros.deps.json
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\bin\Debug\net6.0\AluguelDeCarros.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\bin\Debug\net6.0\AluguelDeCarros.dll
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\bin\Debug\net6.0\AluguelDeCarros.pdb
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\obj\Debug\net6.0\AluguelDeCarros.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\obj\Debug\net6.0\AluguelDeCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\obj\Debug\net6.0\AluguelDeCarros.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\obj\Debug\net6.0\AluguelDeCarros.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\obj\Debug\net6.0\AluguelDeCarros.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\obj\Debug\net6.0\AluguelDeCarros.dll
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\obj\Debug\net6.0\refint\AluguelDeCarros.dll
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\obj\Debug\net6.0\AluguelDeCarros.pdb
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\obj\Debug\net6.0\AluguelDeCarros.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Interface\AluguelDeCarrosApp\AluguelDeCarros\obj\Debug\net6.0\ref\AluguelDeCarros.dll
