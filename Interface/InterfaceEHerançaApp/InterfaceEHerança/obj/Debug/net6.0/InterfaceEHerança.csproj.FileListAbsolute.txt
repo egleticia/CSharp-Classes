@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\bin\Debug\net6.0\InterfaceEHerança.exe
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\bin\Debug\net6.0\InterfaceEHerança.deps.json
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\bin\Debug\net6.0\InterfaceEHerança.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\bin\Debug\net6.0\InterfaceEHerança.dll
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\bin\Debug\net6.0\InterfaceEHerança.pdb
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\obj\Debug\net6.0\InterfaceEHerança.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\obj\Debug\net6.0\InterfaceEHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\obj\Debug\net6.0\InterfaceEHerança.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\obj\Debug\net6.0\InterfaceEHerança.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\obj\Debug\net6.0\InterfaceEHerança.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\obj\Debug\net6.0\InterfaceEHerança.dll
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\obj\Debug\net6.0\refint\InterfaceEHerança.dll
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\obj\Debug\net6.0\InterfaceEHerança.pdb
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\obj\Debug\net6.0\InterfaceEHerança.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Interface\InterfaceEHerançaApp\InterfaceEHerança\obj\Debug\net6.0\ref\InterfaceEHerança.dll

@@ -1,7 +1,8 @@
 ﻿
 namespace InterfaceEHerança.Model.Entities
 {
-   class Shape
+    interface IShape
     {
+        double Area();
     }
 }

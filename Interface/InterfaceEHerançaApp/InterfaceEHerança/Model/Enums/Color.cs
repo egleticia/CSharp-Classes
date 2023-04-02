@@ -1,7 +1,8 @@
 ﻿
 namespace InterfaceEHerança.Model.Enums
 {
-    class Color
+    enum Color
     {
+        Black, White
     }
 }
