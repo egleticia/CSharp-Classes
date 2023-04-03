@@ -1,0 +1,30 @@
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.exe
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.deps.json
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.dll
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.pdb
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.dll
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\obj\Debug\net6.0\refint\HerancaMultipla.dll
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.pdb
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp\HerancaMultipla\obj\Debug\net6.0\ref\HerancaMultipla.dll
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.exe
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.deps.json
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.dll
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\bin\Debug\net6.0\HerancaMultipla.pdb
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.dll
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\obj\Debug\net6.0\refint\HerancaMultipla.dll
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.pdb
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\obj\Debug\net6.0\HerancaMultipla.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Interface\HerancaMultiplaApp - Refatorado\HerancaMultipla\obj\Debug\net6.0\ref\HerancaMultipla.dll
