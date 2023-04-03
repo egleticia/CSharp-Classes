@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\bin\Debug\net6.0\Interface-IComparable.exe
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\bin\Debug\net6.0\Interface-IComparable.deps.json
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\bin\Debug\net6.0\Interface-IComparable.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\bin\Debug\net6.0\Interface-IComparable.dll
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\bin\Debug\net6.0\Interface-IComparable.pdb
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\obj\Debug\net6.0\Interface-IComparable.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\obj\Debug\net6.0\Interface-IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\obj\Debug\net6.0\Interface-IComparable.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\obj\Debug\net6.0\Interface-IComparable.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\obj\Debug\net6.0\Interface-IComparable.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\obj\Debug\net6.0\Interface-IComparable.dll
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\obj\Debug\net6.0\refint\Interface-IComparable.dll
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\obj\Debug\net6.0\Interface-IComparable.pdb
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\obj\Debug\net6.0\Interface-IComparable.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Interface\Interface-IComparableApp\Interface-IComparable\obj\Debug\net6.0\ref\Interface-IComparable.dll
