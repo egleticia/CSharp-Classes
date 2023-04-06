@@ -2,7 +2,7 @@
 
 
 
-PrintService printService= new PrintService();
+PrintService<int> printService= new PrintService<int>();
 Console.WriteLine("How many Values? ");
 int n = int.Parse(Console.ReadLine());
 

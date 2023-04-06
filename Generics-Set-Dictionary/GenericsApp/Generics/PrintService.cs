@@ -1,13 +1,14 @@
 ﻿
 namespace Generics
 {
-    
-    class PrintService
+    // solucionando o problema de vários tipos com generics
+
+    class PrintService<T>
     { 
-        private int[] _values = new int[10];
+        private T[] _values = new T[10];
         private int _count = 0;
 
-        public void addValue(int value)
+        public void addValue(T value)
         {
             if(_count == _values.Length)
             {
@@ -17,7 +18,7 @@ namespace Generics
             _values[_count++] = value;
         }
 
-        public int First()
+        public T First()
         {
             if (_count == 0)
             {
