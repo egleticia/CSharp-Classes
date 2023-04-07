@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\bin\Debug\net6.0\Restricoes-generics.exe
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\bin\Debug\net6.0\Restricoes-generics.deps.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\bin\Debug\net6.0\Restricoes-generics.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\bin\Debug\net6.0\Restricoes-generics.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\bin\Debug\net6.0\Restricoes-generics.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\obj\Debug\net6.0\Restricoes-generics.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\obj\Debug\net6.0\Restricoes-generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\obj\Debug\net6.0\Restricoes-generics.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\obj\Debug\net6.0\Restricoes-generics.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\obj\Debug\net6.0\Restricoes-generics.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\obj\Debug\net6.0\Restricoes-generics.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\obj\Debug\net6.0\refint\Restricoes-generics.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\obj\Debug\net6.0\Restricoes-generics.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\obj\Debug\net6.0\Restricoes-generics.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Restricoes-genericsApp\Restricoes-generics\obj\Debug\net6.0\ref\Restricoes-generics.dll
