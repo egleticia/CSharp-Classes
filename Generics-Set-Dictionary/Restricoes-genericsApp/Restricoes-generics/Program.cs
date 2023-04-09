@@ -1,20 +1,23 @@
-﻿using Restricoes_generics.Services;
+﻿using System.Globalization;
+using Restricoes_generics.Services;
+using Restricoes_generics.Entities;
 
 
-
-List<int> list = new List<int>();
+List<Produtos> list = new List<Produtos>();
 
 Console.WriteLine("Enter N: ");
 int n = int.Parse(Console.ReadLine());
 
 for (int i = 0; i < n; i++)
 {
-    int x = int.Parse(Console.ReadLine());
-    list.Add(x);
+    string[] vect = Console.ReadLine().Split(',');
+    string name = vect[0];
+    double price = double.Parse(vect[1], CultureInfo.InvariantCulture);
+    list.Add(new Produtos(name, price));
 }
 
 CalculationService calculationService = new CalculationService();
 
-int max = calculationService.Max(list);
+Produtos max = calculationService.Max(list);
 Console.WriteLine("Max: ");
 Console.WriteLine(max);
