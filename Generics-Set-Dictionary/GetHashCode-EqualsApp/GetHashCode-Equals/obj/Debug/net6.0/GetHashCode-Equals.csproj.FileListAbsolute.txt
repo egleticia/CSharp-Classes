@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\bin\Debug\net6.0\GetHashCode-Equals.exe
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\bin\Debug\net6.0\GetHashCode-Equals.deps.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\bin\Debug\net6.0\GetHashCode-Equals.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\bin\Debug\net6.0\GetHashCode-Equals.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\bin\Debug\net6.0\GetHashCode-Equals.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\obj\Debug\net6.0\GetHashCode-Equals.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\obj\Debug\net6.0\GetHashCode-Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\obj\Debug\net6.0\GetHashCode-Equals.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\obj\Debug\net6.0\GetHashCode-Equals.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\obj\Debug\net6.0\GetHashCode-Equals.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\obj\Debug\net6.0\GetHashCode-Equals.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\obj\Debug\net6.0\refint\GetHashCode-Equals.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\obj\Debug\net6.0\GetHashCode-Equals.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\obj\Debug\net6.0\GetHashCode-Equals.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\GetHashCode-EqualsApp\GetHashCode-Equals\obj\Debug\net6.0\ref\GetHashCode-Equals.dll
