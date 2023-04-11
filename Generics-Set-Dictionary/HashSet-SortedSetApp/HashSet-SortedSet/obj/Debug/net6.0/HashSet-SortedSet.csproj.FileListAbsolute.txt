@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\bin\Debug\net6.0\HashSet-SortedSet.exe
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\bin\Debug\net6.0\HashSet-SortedSet.deps.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\bin\Debug\net6.0\HashSet-SortedSet.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\bin\Debug\net6.0\HashSet-SortedSet.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\bin\Debug\net6.0\HashSet-SortedSet.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\obj\Debug\net6.0\HashSet-SortedSet.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\obj\Debug\net6.0\HashSet-SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\obj\Debug\net6.0\HashSet-SortedSet.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\obj\Debug\net6.0\HashSet-SortedSet.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\obj\Debug\net6.0\HashSet-SortedSet.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\obj\Debug\net6.0\HashSet-SortedSet.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\obj\Debug\net6.0\refint\HashSet-SortedSet.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\obj\Debug\net6.0\HashSet-SortedSet.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\obj\Debug\net6.0\HashSet-SortedSet.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\HashSet-SortedSetApp\HashSet-SortedSet\obj\Debug\net6.0\ref\HashSet-SortedSet.dll
