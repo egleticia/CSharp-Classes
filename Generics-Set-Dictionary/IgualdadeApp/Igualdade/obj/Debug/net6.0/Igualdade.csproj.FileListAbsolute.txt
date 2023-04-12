@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\bin\Debug\net6.0\Igualdade.exe
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\bin\Debug\net6.0\Igualdade.deps.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\bin\Debug\net6.0\Igualdade.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\bin\Debug\net6.0\Igualdade.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\bin\Debug\net6.0\Igualdade.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\obj\Debug\net6.0\Igualdade.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\obj\Debug\net6.0\Igualdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\obj\Debug\net6.0\Igualdade.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\obj\Debug\net6.0\Igualdade.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\obj\Debug\net6.0\Igualdade.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\obj\Debug\net6.0\Igualdade.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\obj\Debug\net6.0\refint\Igualdade.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\obj\Debug\net6.0\Igualdade.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\obj\Debug\net6.0\Igualdade.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\IgualdadeApp\Igualdade\obj\Debug\net6.0\ref\Igualdade.dll
