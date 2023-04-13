@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\bin\Debug\net6.0\AcessoDeUsuarios.exe
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\bin\Debug\net6.0\AcessoDeUsuarios.deps.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\bin\Debug\net6.0\AcessoDeUsuarios.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\bin\Debug\net6.0\AcessoDeUsuarios.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\bin\Debug\net6.0\AcessoDeUsuarios.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\obj\Debug\net6.0\AcessoDeUsuarios.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\obj\Debug\net6.0\AcessoDeUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\obj\Debug\net6.0\AcessoDeUsuarios.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\obj\Debug\net6.0\AcessoDeUsuarios.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\obj\Debug\net6.0\AcessoDeUsuarios.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\obj\Debug\net6.0\AcessoDeUsuarios.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\obj\Debug\net6.0\refint\AcessoDeUsuarios.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\obj\Debug\net6.0\AcessoDeUsuarios.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\obj\Debug\net6.0\AcessoDeUsuarios.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\AcessoDeUsuariosApp\AcessoDeUsuarios\obj\Debug\net6.0\ref\AcessoDeUsuarios.dll
