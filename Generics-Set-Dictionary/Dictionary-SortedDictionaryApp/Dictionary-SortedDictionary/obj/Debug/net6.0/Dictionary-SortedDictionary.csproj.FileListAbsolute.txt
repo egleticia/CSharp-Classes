@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\bin\Debug\net6.0\Dictionary-SortedDictionary.exe
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\bin\Debug\net6.0\Dictionary-SortedDictionary.deps.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\bin\Debug\net6.0\Dictionary-SortedDictionary.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\bin\Debug\net6.0\Dictionary-SortedDictionary.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\bin\Debug\net6.0\Dictionary-SortedDictionary.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\obj\Debug\net6.0\Dictionary-SortedDictionary.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\obj\Debug\net6.0\Dictionary-SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\obj\Debug\net6.0\Dictionary-SortedDictionary.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\obj\Debug\net6.0\Dictionary-SortedDictionary.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\obj\Debug\net6.0\Dictionary-SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\obj\Debug\net6.0\Dictionary-SortedDictionary.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\obj\Debug\net6.0\refint\Dictionary-SortedDictionary.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\obj\Debug\net6.0\Dictionary-SortedDictionary.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\obj\Debug\net6.0\Dictionary-SortedDictionary.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\Dictionary-SortedDictionaryApp\Dictionary-SortedDictionary\obj\Debug\net6.0\ref\Dictionary-SortedDictionary.dll
