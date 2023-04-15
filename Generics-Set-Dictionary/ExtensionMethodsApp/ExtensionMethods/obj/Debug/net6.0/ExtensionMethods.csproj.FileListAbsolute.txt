@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.exe
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.deps.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\obj\Debug\net6.0\refint\ExtensionMethods.dll
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.pdb
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Generics-Set-Dictionary\ExtensionMethodsApp\ExtensionMethods\obj\Debug\net6.0\ref\ExtensionMethods.dll
