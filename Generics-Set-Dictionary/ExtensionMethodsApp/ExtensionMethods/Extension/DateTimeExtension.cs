@@ -3,7 +3,7 @@
 // A classe deve ser static
 
 
-namespace ExtensionMethods.Extension
+namespace System
 {
     static class DateTimeExtension
     {
