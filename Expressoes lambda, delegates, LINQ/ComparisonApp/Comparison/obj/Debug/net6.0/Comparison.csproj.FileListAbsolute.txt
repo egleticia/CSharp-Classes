@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\bin\Debug\net6.0\Comparison.exe
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\bin\Debug\net6.0\Comparison.deps.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\bin\Debug\net6.0\Comparison.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\bin\Debug\net6.0\Comparison.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\bin\Debug\net6.0\Comparison.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\obj\Debug\net6.0\Comparison.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\obj\Debug\net6.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\obj\Debug\net6.0\Comparison.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\obj\Debug\net6.0\Comparison.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\obj\Debug\net6.0\Comparison.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\obj\Debug\net6.0\Comparison.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\obj\Debug\net6.0\refint\Comparison.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\obj\Debug\net6.0\Comparison.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\obj\Debug\net6.0\Comparison.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ComparisonApp\Comparison\obj\Debug\net6.0\ref\Comparison.dll
