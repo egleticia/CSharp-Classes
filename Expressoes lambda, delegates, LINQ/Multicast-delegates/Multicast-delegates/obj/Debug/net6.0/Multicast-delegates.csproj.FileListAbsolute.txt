@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\bin\Debug\net6.0\Multicast-delegates.exe
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\bin\Debug\net6.0\Multicast-delegates.deps.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\bin\Debug\net6.0\Multicast-delegates.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\bin\Debug\net6.0\Multicast-delegates.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\bin\Debug\net6.0\Multicast-delegates.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\obj\Debug\net6.0\Multicast-delegates.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\obj\Debug\net6.0\Multicast-delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\obj\Debug\net6.0\Multicast-delegates.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\obj\Debug\net6.0\Multicast-delegates.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\obj\Debug\net6.0\Multicast-delegates.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\obj\Debug\net6.0\Multicast-delegates.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\obj\Debug\net6.0\refint\Multicast-delegates.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\obj\Debug\net6.0\Multicast-delegates.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\obj\Debug\net6.0\Multicast-delegates.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\Multicast-delegates\Multicast-delegates\obj\Debug\net6.0\ref\Multicast-delegates.dll
