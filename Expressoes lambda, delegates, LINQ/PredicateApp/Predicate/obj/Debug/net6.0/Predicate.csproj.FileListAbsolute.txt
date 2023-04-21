@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\obj\Debug\net6.0\Predicate.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\obj\Debug\net6.0\Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\obj\Debug\net6.0\Predicate.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\obj\Debug\net6.0\Predicate.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\obj\Debug\net6.0\Predicate.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\bin\Debug\net6.0\Predicate.exe
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\bin\Debug\net6.0\Predicate.deps.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\bin\Debug\net6.0\Predicate.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\bin\Debug\net6.0\Predicate.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\bin\Debug\net6.0\Predicate.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\obj\Debug\net6.0\Predicate.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\obj\Debug\net6.0\refint\Predicate.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\obj\Debug\net6.0\Predicate.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\obj\Debug\net6.0\Predicate.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\PredicateApp\Predicate\obj\Debug\net6.0\ref\Predicate.dll
