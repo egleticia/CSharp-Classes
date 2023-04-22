@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\obj\Debug\net6.0\Action.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\obj\Debug\net6.0\Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\obj\Debug\net6.0\Action.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\obj\Debug\net6.0\Action.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\obj\Debug\net6.0\Action.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\bin\Debug\net6.0\Action.exe
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\bin\Debug\net6.0\Action.deps.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\bin\Debug\net6.0\Action.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\bin\Debug\net6.0\Action.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\bin\Debug\net6.0\Action.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\obj\Debug\net6.0\Action.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\obj\Debug\net6.0\refint\Action.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\obj\Debug\net6.0\Action.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\obj\Debug\net6.0\Action.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\ActionApp\Action\obj\Debug\net6.0\ref\Action.dll
