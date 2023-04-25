@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\bin\Debug\net6.0\LINQ.exe
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\bin\Debug\net6.0\LINQ.deps.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\bin\Debug\net6.0\LINQ.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\bin\Debug\net6.0\LINQ.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\bin\Debug\net6.0\LINQ.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\obj\Debug\net6.0\LINQ.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\obj\Debug\net6.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\obj\Debug\net6.0\LINQ.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\obj\Debug\net6.0\LINQ.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\obj\Debug\net6.0\LINQ.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\obj\Debug\net6.0\LINQ.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\obj\Debug\net6.0\refint\LINQ.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\obj\Debug\net6.0\LINQ.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\obj\Debug\net6.0\LINQ.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQApp\LINQ\obj\Debug\net6.0\ref\LINQ.dll
