@@ -1,0 +1,15 @@
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\bin\Debug\net6.0\LINQ-Lambda.exe
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\bin\Debug\net6.0\LINQ-Lambda.deps.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\bin\Debug\net6.0\LINQ-Lambda.runtimeconfig.json
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\bin\Debug\net6.0\LINQ-Lambda.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\bin\Debug\net6.0\LINQ-Lambda.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\obj\Debug\net6.0\LINQ-Lambda.csproj.AssemblyReference.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\obj\Debug\net6.0\LINQ-Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\obj\Debug\net6.0\LINQ-Lambda.AssemblyInfoInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\obj\Debug\net6.0\LINQ-Lambda.AssemblyInfo.cs
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\obj\Debug\net6.0\LINQ-Lambda.csproj.CoreCompileInputs.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\obj\Debug\net6.0\LINQ-Lambda.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\obj\Debug\net6.0\refint\LINQ-Lambda.dll
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\obj\Debug\net6.0\LINQ-Lambda.pdb
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\obj\Debug\net6.0\LINQ-Lambda.genruntimeconfig.cache
+C:\Projetos Studio\CSharp-Classes\Expressoes lambda, delegates, LINQ\LINQ-LambdaApp\LINQ-Lambda\obj\Debug\net6.0\ref\LINQ-Lambda.dll
