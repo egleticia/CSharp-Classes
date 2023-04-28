@@ -22,10 +22,13 @@ List<Product> products = new List<Product>()
 };
 
 var r1 = products.Where(p => p.Category.Tier == 1 && p.Price < 900.0);
-
 Print("TIER 1 AND PRICE < 900:", r1);
 
+var r2 = products.Where(p => p.Category.Name == "Tools").Select(p => p.Name);
+Print("NAMES OF PRODUCTS FROM TOOLS", r2);
 
+var r3 = products.Where(p => p.Name[0] == 'C').Select(p => new {p.Name, p.Price, CategoryName = p.Category.Name});
+Print("NAMES STARTED WITH C AND ANONYMOUS OBJECT", r3);
 
 static void Print<T>(string message, IEnumerable<T> collection)
 {
